@@ -26,3 +26,6 @@ The improvements I can suggest is:
 # sertie-ui-website-redesign
 Here is the wireframe for the redesigned website:  
 https://www.figma.com/design/HaZ0EDjVMFmAtsgSOrjzQx/Serti-ui-redesign?node-id=0-1&t=uGKJ0YXrsFPhzTXP-1
+
+Watch the detailed explanation of the UI/UX redesign process here:  
+https://drive.google.com/file/d/1rVdC4XiU_JURp9S_k2y2DClOS3Pc36R9/view?usp=drive_link
